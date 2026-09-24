@@ -33,27 +33,6 @@ Institution-Specific AI Receptionist
 
 ---
 
-# 🧠 The Evolution
-
-## CLARA
-
-```text
-AI Engine
-+
-College Knowledge
-=
-One AI Receptionist
-```
-
-## SIA
-
-```text
-Reusable AI Platform
-+
-Institution Configuration
-=
-Unlimited AI Receptionists
-```
 
 ---
 
